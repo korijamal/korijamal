@@ -1,25 +1,36 @@
+# gitartwork on user's contribution graph
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<h1 align="center">Hi 👋, I'm Kori</h1>
-<h3 align="center">A passionate frontend developer</h3>
+gitartwork on user's contribution graph, make a SVG image of it and finally push it back to your repository.
 
-- 👨‍💻 All of my projects are available at [https://portfolio3-2tde34m9y-soso6810.vercel.app/](https://portfolio3-2tde34m9y-soso6810.vercel.app/)
+An example result:
+[![jasineri/gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
 
-- 📫 How to reach me **mr.sirojiddin4016810@gmail.com*
+## Usage:
 
+### Option #1: Use gitartwork as a GitHub Action
+1. Copy the workflow code into a `.github/workflows/gitartwork.yml` file in your repository.
 
+        name: gitartwork from a contribution graph
+        on: 
+          push:
+          schedule:
+            - cron: '* */24 * * *'
+        jobs:
+          build:
+            name: Make gitartwork SVG
+            runs-on: ubuntu-latest
+            steps:
+              - uses: actions/checkout@v3
+              - uses: jasineri/gitartwork@v1
+                with:
+                   # Use this username's contribution graph  
+                   user_name: jasineri
+                   # Text on contribution graph 
+                   text: JASINERI
+              - uses: jasineri/simple-push-action@v1
 
+2. A few moments later it will generate `gitartwork.svg` image in your repository, so then you can include it in your `README.md` like `![gitartwork](gitartwork.svg)`
+3. Have fun :)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kori6810&show_icons=true&theme=merko&count_private=tru)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Option #2: Make gitartwork locally on your environment
+Still in progress...
