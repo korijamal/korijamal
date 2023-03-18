@@ -12,7 +12,7 @@
 <h1 align="center">Hi 👋, I'm Kori</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio6810.vercel.app/](https://portfolio6810.vercel.app/)
+- 👨‍💻 My Portfolio Website: [https://portfolio6810.vercel.app/](https://portfolio6810.vercel.app/)
 
 - 📫 How to reach me **mr.sirojiddin4016810@gmail.com*
 <div id="header" align="center">
