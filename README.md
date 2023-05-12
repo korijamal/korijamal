@@ -11,8 +11,8 @@
 </div>
 <h1 align="center">Hi 👋, I'm Kori</h1>
 <h3 align="center">A passionate software developer</h3>
-- 👨‍💻 My Portfolio: [https://portfolio6810.vercel.app/](https://portfolio6810.vercel.app/)
-- 📫 How to reach me **mr.sirojiddin4016810@gmail.com*
+<h4>- 👨‍💻 My Portfolio: [https://portfolio6810.vercel.app/](https://portfolio6810.vercel.app/)<h4>
+<h4>- 📫 How to reach me *mr.sirojiddin4016810@gmail.com*<h4>
 <div id="header" align="center">
   <img src="./gitartwork.svg" width="100%"/>
 </div>
