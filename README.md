@@ -7,7 +7,6 @@
   </a>
   <a href="https://twitter.com/SirojiddinKamo6">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <h1 align="center">Hi 👋, I'm Kori</h1>
 <h3 align="center">A passionate software developer</h3>
