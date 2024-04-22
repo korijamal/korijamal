@@ -1,11 +1,12 @@
-<h2 align="left">Hi 👋! My name is Ilkhomjon and I'm a frontend developer, from Uzbekistan</h2>
+<h1 align="center">Hi 👋, I'm Kori</h1>
+<h3 align="center" style="text-align: center">👨‍💻 Software Developer | Blockchain and AI Enthusiast | Wrestling Warrior</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilkhomjon2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ilkhomjon2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkhomjon2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=korijamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=korijamal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=korijamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -49,39 +50,25 @@
 ###
 
 <div align="left">
-  <a href="ilhommaxsudov3@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="korijamal.me@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"  alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ilkhomjon-makhsudov-087242191/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ilkhomjon2002/ilkhomjon2002/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ilkhomjon2002/count.svg?"  />
-</div>
-<h2 align="left">Most of my projects are hidden so please contact me to get know more about them or you can refer to my portfolio https://ilkhomjonmakhsudov.uz</h2>
-###
-
-<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/korijamal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/SirojiddinKamo6">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
-<h1 align="center">Hi 👋, I'm Kori</h1>
-<h3 style="text-align: center">👨‍💻 Software Developer| Blockchain Enthusiast | Wrestling Warrior</h3>
-    <p>🎓 Recent university graduate with a spark for innovation and a drive to electrify the roads</p>
-    <p>💡 Exploring the electrifying intersections of crypto, blockchain, and clean energy | 📉 Surviving market shocks with a smile (even if it cost me $5000+!)</p>
-    <p>🤼‍♂️ Channeling my inner strength as a wrestler | 🥇 Striving for excellence on and off the mat</p>
-    <p>🔗 Connect with me to plug into the future of clean tech, blockchain, and the exhilarating world of wrestling! 🤝</p>
 
+
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/korijamal/count.svg?"  />
+</div>
+<h2 align="left">Most of my projects are hidden so please contact me to get know more about them or you can refer to my portfolio https://korijamal.me</h2>
+###
+
+
+
+    
