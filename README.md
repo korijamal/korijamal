@@ -58,6 +58,7 @@
   </a>
   <a href="https://twitter.com/SirojiddinKamo6">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 
@@ -67,7 +68,6 @@
   <img src="https://profile-counter.glitch.me/korijamal/count.svg?"  />
 </div>
 <h2 align="left">Most of my projects are hidden so please contact me to get know more about them or you can refer to my portfolio https://korijamal.me</h2>
-###
 
 
 
