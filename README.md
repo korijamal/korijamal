@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kori</h1>
-<h3 align="center" style="text-align: center">👨‍💻 Software Developer | Blockchain and AI Enthusiast | Wrestling Warrior</h3>
+<!-- <h3 align="center" style="text-align: center">👨‍💻 Software Developer | Blockchain and AI Enthusiast | Wrestling Warrior</h3>
 
 ###
 
@@ -72,3 +72,4 @@
 
 
     
+ -->
